@@ -1,4 +1,4 @@
-# Adding a blog to your homepage starter
+# AMary Holtz Art
 
 The Gatsby Homepage starter includes components for creating a homepage and an _About_ page as well as templates for simple pages like a _Privacy Policy_ page.
 
