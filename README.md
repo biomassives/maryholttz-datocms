@@ -2,7 +2,7 @@
   <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
 </a>
 
-# Gatsby Starter DatoCMS Homepage
+# MAry Holtz Gatsby based -  DatoCMS page
 
 Create a homepage using Gatsby and DatoCMS. This starter demonstrates how to use DatoCMS to build a homepage and can be customized to match your own visual branding.
 
